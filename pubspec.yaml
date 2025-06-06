@@ -27,6 +27,7 @@ flutter:
   # Adicione esta seção para incluir o ícone nos assets
   assets:
     - assets/icons/
+    - assets/images/
 
 # Configuração do ícone do app
 flutter_icons:
